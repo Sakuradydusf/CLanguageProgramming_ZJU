@@ -15,7 +15,7 @@
 * [第12章](#第12章)
 
 ## 第1章
-1. **对C语言来说,下列标识符中那些是合法的,哪些不是合法的? total, _debug, Larger&Tall, Counter1, begin_**
+1. **对C语言来说,下列标识符中那些是合法的,哪些不是合法的? total, _debug, Larger&Tall, Counter1, begin_**<br/>
 Larger&Tall是不合法的，total, _debug, Counter1, begin_是合法的。<br />
 * 因为标识符只能由字母，下划线，数字组成
 * 标识符可以以字母和下划线开头，但不能以数字开头
