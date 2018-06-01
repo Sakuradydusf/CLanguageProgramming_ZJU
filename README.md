@@ -47,7 +47,26 @@ int main() {
 ①②是顺序结构 ③④⑤⑥是循环结构 ④⑤⑥和⑦⑧⑨是分支结构
 ***
 ## 第2章
+1. **输出短语(Programming in C is fun!)"
+```c
+#include <stdio.h>
 
+int main() {
+	printf("Programming in C is fun!");
+	return 0;
+} 
+```
+2. **
+代码1
+```c
+printf("Progamming is fun. And Programming in C is even more fun!")
+```
+代码2
+```c
+printf("Progamming is fun. \n);
+printf("And Programming in C is even more fun!");
+```
+代码1和代码2的输出有何不用？为什么？
 ## 第3章
 
 ## 第4章
